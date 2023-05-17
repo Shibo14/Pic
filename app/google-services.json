@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626269336895",
+    "project_id": "my-pic-8d7d3",
+    "storage_bucket": "my-pic-8d7d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626269336895:android:faf94e502696bac92b8f8a",
+        "android_client_info": {
+          "package_name": "uz.khan.mypic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626269336895-9u8p0rs5r63ghe33iqdarsb7dr7l73tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFO6Nnv0snsfhzmBbsl1Jbhn41hmf-ydk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626269336895-9u8p0rs5r63ghe33iqdarsb7dr7l73tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
